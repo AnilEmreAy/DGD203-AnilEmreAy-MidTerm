@@ -1,0 +1,14 @@
+C:\Users\Charlie\source\repos\AnılMidterm\AnılMidterm\bin\Debug\net8.0\AnılMidterm.exe
+C:\Users\Charlie\source\repos\AnılMidterm\AnılMidterm\bin\Debug\net8.0\AnılMidterm.deps.json
+C:\Users\Charlie\source\repos\AnılMidterm\AnılMidterm\bin\Debug\net8.0\AnılMidterm.runtimeconfig.json
+C:\Users\Charlie\source\repos\AnılMidterm\AnılMidterm\bin\Debug\net8.0\AnılMidterm.dll
+C:\Users\Charlie\source\repos\AnılMidterm\AnılMidterm\bin\Debug\net8.0\AnılMidterm.pdb
+C:\Users\Charlie\source\repos\AnılMidterm\AnılMidterm\obj\Debug\net8.0\AnılMidterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charlie\source\repos\AnılMidterm\AnılMidterm\obj\Debug\net8.0\AnılMidterm.AssemblyInfoInputs.cache
+C:\Users\Charlie\source\repos\AnılMidterm\AnılMidterm\obj\Debug\net8.0\AnılMidterm.AssemblyInfo.cs
+C:\Users\Charlie\source\repos\AnılMidterm\AnılMidterm\obj\Debug\net8.0\AnılMidterm.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\source\repos\AnılMidterm\AnılMidterm\obj\Debug\net8.0\AnılMidterm.dll
+C:\Users\Charlie\source\repos\AnılMidterm\AnılMidterm\obj\Debug\net8.0\refint\AnılMidterm.dll
+C:\Users\Charlie\source\repos\AnılMidterm\AnılMidterm\obj\Debug\net8.0\AnılMidterm.pdb
+C:\Users\Charlie\source\repos\AnılMidterm\AnılMidterm\obj\Debug\net8.0\AnılMidterm.genruntimeconfig.cache
+C:\Users\Charlie\source\repos\AnılMidterm\AnılMidterm\obj\Debug\net8.0\ref\AnılMidterm.dll
